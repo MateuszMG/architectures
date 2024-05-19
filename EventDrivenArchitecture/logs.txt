@@ -1,0 +1,4 @@
+2024-05-19T08:03:33.500Z - This is a file log message.
+2024-05-19T08:03:33.500Z - This is a log message for both console and file.
+2024-05-19T08:03:44.659Z - This is a file log message.
+2024-05-19T08:03:44.659Z - This is a log message for both console and file.
